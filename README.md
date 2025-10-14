@@ -1,6 +1,6 @@
 ## About me
 
-I am a passionate Frontend Developer based in Lviv, Ukraine. I have a strong ability to learn quickly and am committed to delivering high-quality work within deadlines. I thrive in team environments and actively contribute to both my team and the local developer community.
+Results-driven frontend developer with experience in building performant, optimized web applications. Quick learner and strong team player, delivering quality solutions for clients across Europe and Ukraine.
 
 ## Technologies
 
