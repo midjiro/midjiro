@@ -1,6 +1,6 @@
 ## About me
 
-Results-driven frontend developer with experience in building performant, optimized web applications. Quick learner and strong team player, delivering quality solutions for clients across Europe and Ukraine.
+I am a Frontend Developer with over 3 years of experience, having worked on management platforms, hiring systems, and cryptocurrency products. In a rapidly changing market, I delivered scalable MVPs, improved architecture, and enhanced performance and usability, providing businesses with effective and reliable digital solutions.
 
 ## Technologies
 
