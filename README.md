@@ -1,14 +1,14 @@
 ## About me
 
-I am a Frontend Developer with over 3 years of experience, having worked on management platforms, hiring systems, and cryptocurrency products. In a rapidly changing market, I delivered scalable MVPs, improved architecture, and enhanced performance and usability, providing businesses with effective and reliable digital solutions.
+Frontend Developer delivering solutions for clients in logistics, real estate, retail and crypto. 
 
 ## Technologies
 
 ### Frameworks
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React)
-![](https://img.shields.io/badge/Gatsby-20232A?style=for-the-badge&logo=Gatsby)
-![](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=Express)
+![](https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=Next.Js)
+![](https://img.shields.io/badge/Nest.Js-20232A?style=for-the-badge&logo=NestJS)
 
 ### Libraries
 
